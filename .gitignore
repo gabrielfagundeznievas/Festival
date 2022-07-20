@@ -1,5 +1,6 @@
 node_modules/
 Deployment/
+src/
 package.json
 package-lock.json
 gulpfile.js
